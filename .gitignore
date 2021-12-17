@@ -1,0 +1,39 @@
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# Avoid ignoring Maven wrapper jar file (.jar files are usually ignored)
+!/.mvn/wrapper/maven-wrapper.jar
+
+# idea
+.idea/
+*.iml
+
+# output files
+annotation_result*
+
+# input data folder
+data*/
+files/
+selected-mendeley/
+selection/
+
+# input dataset
+*.jl
+*.gz
+
+# log files
+*.log
+
+# executable files
+*.jar
+
+# .DS_Store
+.DS_Store
+**/.DS_Store

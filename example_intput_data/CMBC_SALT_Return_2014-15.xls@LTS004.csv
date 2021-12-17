@@ -1,0 +1,32 @@
+Long Term Support:,3,,,,Count of Mandatory Data Items,Count of Completed Mandatory Data Items,,,,,,
+,,,,,50,50,,,,,,
+LTS004    ,,,,,,,,,,,,
+Accommodation and Employment Status of Working Age Clients with a Learning Disability,,,,,,,,,,,,
+Period: 01/04/14 - 31/03/15 (all tables),,,,,,,,,,,,
+,,,,,,,,,,,,
+"Table 1
+Employment by Gender",Employed,,Not in Paid Employment,,,TOTAL,,,,,,
+Gender,Paid - less than 16 hours a week,Paid - 16 hours or more a week,Not in Paid Employment (Seeking Work),Not in Paid Employment (Not Actively Seeking Work / Retired),Unknown,,,,,,,
+Males aged 18 to 64,14,3,0,0,245,262,,,,,,
+Females aged 18 to 64,21,13,0,0,342,376,,,,,,
+TOTAL,35,16,0,0,587,638,,,,,,
+THIS TABLE CONTAINS DATA USED FOR THE ADULT SOCIAL CARE OUTCOMES FRAMEWORK (ASCOF) MEASURE 1E AND 1G,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+"Table 2a
+Settled Accommodation
+by Gender",'Settled' Accommodation,,,,,,,,,SUB-TOTAL,,
+Gender,Owner Occupier or Shared Ownership Scheme,"Tenant (including Local Authority, Arm's Length Management Organisations, Registered Social Landlord, Housing Association)",Tenant - Private Landlord ,Settled Mainstream Housing with Family / Friends (Including Flat-Sharing),Supported Accommodation / Supported Lodgings / Supported Group Home (i.e. Accommodation Supported by Staff or Resident Care Taker),Shared Lives Scheme,Approved Premises for Offenders released from Prison or under Probation Supervision (e.g. Probation Hostel),Sheltered Housing / Extra Care Housing / Other Sheltered Housing,Mobile Accommodation for Gypsy / Roma and Traveller Communities,,,
+Males aged 18 to 64,0,1,0,216,118,10,0,0,0,345,,
+Females aged 18 to 64,0,4,0,132,99,5,0,0,0,240,,
+TOTAL,0,5,0,348,217,15,0,0,0,585,,
+THIS TABLE CONTAINS DATA USED FOR THE ADULT SOCIAL CARE OUTCOMES FRAMEWORK (ASCOF) MEASURE 1G,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+"Table 2b
+Unsettled Accommodation
+by Gender",'Unsettled' Accommodation,,,,,,,,,,,SUB-TOTAL
+Gender,Rough Sleeper / Squatting,Night Shelter / Emergency Hostel / Direct Access Hostel (Temporary Accommodation accepting Self-Referrals),Refuge,Placed in Temporary Accommodation by the Council (including Homelessness Resettlement),Staying with Family / Friends as a Short Term Guest,"Acute / Long Term Healthcare Residential Facility or Hospital (e.g. NHS Independent General Hospital / Clinic, Long Stay Hospital, Specialist Rehabilitation / Recovery Hospital)",Registered Care Home,Registered Nursing Home,Prison / Young Offenders Institution / Detention Centre,Other Temporary Accommodation,Unknown,
+Males aged 18 to 64,0,0,0,0,0,0,27,4,0,0,0,31
+Females aged 18 to 64,0,0,0,0,0,0,16,6,0,0,0,22
+TOTAL,0,0,0,0,0,0,43,10,0,0,0,53
