@@ -10,6 +10,5 @@ Todo-list:
     
 * Aggregation annotation
   * Add support for multi-aggregator view mode
-  * Add support for free mode annotation
   * Add support for deleting annotation/selection.
   
